@@ -1,4 +1,4 @@
-package boletin2.ejercicio02;
+package boletin1.ejercicio02;
 
 import java.util.LinkedHashSet;
 import java.util.Random;

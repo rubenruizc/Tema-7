@@ -1,4 +1,4 @@
-package boletin3.ejercicio03;
+package boletin1.ejercicio03;
 
 import java.util.HashMap;
 import java.util.Map;
